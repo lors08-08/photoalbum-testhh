@@ -4,5 +4,5 @@
 ## При разработке использовал:
 * redux / redux-thunk для организации стейта
 * Styled-components / Prettier
-* REST API, асинхронные запросы
+* REST API, Promises, асинхронные запросы
 * а также хуки, redux-logger, функциональные компоненты
