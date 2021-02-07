@@ -1,6 +1,5 @@
 import React from "react";
 import { Loading, CircleLoader } from "./styled/index";
-import styled from "styled-components";
 
 function Loader() {
   return (
